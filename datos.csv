@@ -1,0 +1,7 @@
+ClienteID,Duracion,Resultado
+101,45,Exitoso
+102,30,Exitoso
+103,120,Error
+104,15,Exitoso
+105,60,Exitoso
+106,90,Error
